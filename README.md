@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, nice to meet you! I'm Samuel Rojas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**samuelDear/samuelDear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'am a Software Developer that build responsive websites and development cross-platform Apps. Currently work with React⚛️ & React Native, But my website was made with Angular.
+
+Here you can find more information about me and the projects I worked: [samueldear.com][website]
+
+---
+
+### My Social Medias
+
+If you want to know more about me or just say Hello:
+
+
+[website]: https://samueldear.com
