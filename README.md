@@ -26,6 +26,8 @@ If you want to know more about me or just say *Hello*:
 * <a href="https://www.linkedin.com/in/samueldear/" target="_blank"><img src="https://user-images.githubusercontent.com/42327554/136129887-18cc8917-7cc1-482a-a02a-74fa7c4f5edb.png" width="16px" title="Linkedin Logo" /> Linkedin</a>
 * <a href="https://www.instagram.com/samuel.dugarte/" target="_blank"><img src="https://user-images.githubusercontent.com/42327554/136129878-8a9aa914-17da-4d0f-9baa-fe617c2a6f59.png" width="16px" title="IG Logo" /> Instagram</a>
 
+Feel free to contact me!
+
 [website]: https://samueldear.com
 [traumapp]: https://traumapp.com
 [magrey]: https://www.linkedin.com/in/magreyt/
