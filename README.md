@@ -2,7 +2,7 @@
 
 <br />
 
-I'am a Software Developer that build responsive websites and development cross-platform Apps. Currently work with React⚛️ & React Native, But my website was made with Angular😅
+I'am a Software Developer that build responsive websites and development cross-platform Apps. Currently working with React⚛️ & React Native, But my website was made with Angular😅
 
 <br />
 
