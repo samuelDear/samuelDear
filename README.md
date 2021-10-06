@@ -1,5 +1,7 @@
 ### Hi, nice to meet you! I'm Samuel Rojas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <br />
+
 I'am a Software Developer that build responsive websites and development cross-platform Apps. Currently work with React⚛️ & React Native, But my website was made with Angular.
 
 <br />
